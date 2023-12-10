@@ -8,6 +8,7 @@ public class Rectangulo {
 	
 	public double calcularPerimetro() {
 		return 2 * (base + altura);
+		
 	}
 	
 	
